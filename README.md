@@ -1,4 +1,4 @@
-# es6debugger
+# es6debugger without webpack or gulp
 
 [참고사이트] http://woonghub.tistory.com/46
 
